@@ -25,7 +25,7 @@
 ### 🌐 CONTATO
 
 <p align="center">
-  <a href="https://www.instagram.com/4na.alves">
-    Instagram
+  <a href="https://www.instagram.com/SEUUSER">
+    <img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 </p>
